@@ -1,6 +1,6 @@
 {
     "name": "jupyterlab_url_params_ext",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A JupyterLab extension to fill cell params based on URL params.",
     "keywords": [
         "jupyter",
